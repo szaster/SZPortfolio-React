@@ -61,33 +61,39 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a target="_blank" href="../assets/img/resume.pdf">
+                    <a target="_blank" href="../../assets/img/resume.pdf">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a
-                      href="https://www.linkedin.com/in/svitlana-zaster-77a9a06b/"
-                      target="_blank"
-                    >
-                      <i class="fab fa-linkedin">Linkedin</i>
-                    </a>
+                    <Button className="m-2" variant="outline-primary">
+                      <a
+                        href="https://www.linkedin.com/in/svitlana-zaster-77a9a06b/"
+                        target="_blank"
+                      >
+                        <i class="fab fa-linkedin">Linkedin</i>
+                      </a>
+                    </Button>
                   </div>
                   <div>
-                    <a href="https://github.com/szaster/" target="_blank">
-                      <i class="fab fa-github">Github</i>
-                    </a>
+                    <Button className="m-2" variant="outline-dark">
+                      <a href="https://github.com/szaster/" target="_blank">
+                        <i class="fab fa-github">Github</i>
+                      </a>
+                    </Button>
                   </div>
                   <div>
-                    <a
-                      class="social"
-                      href="https://twitter.com/szaster"
-                      target="_blank"
-                    >
-                      <i class="fab fa-twitter">Twitter</i>
-                    </a>
+                    <Button className="m-2" variant="outline-info">
+                      <a
+                        class="social"
+                        href="https://twitter.com/szaster"
+                        target="_blank"
+                      >
+                        <i class="fab fa-twitter">Twitter</i>
+                      </a>
+                    </Button>
                   </div>
                 </Col>
               </Row>
