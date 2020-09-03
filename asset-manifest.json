@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/SZPortfolio-React/static/css/main.c21d8936.chunk.css",
-    "main.js": "/SZPortfolio-React/static/js/main.e0720ab6.chunk.js",
-    "main.js.map": "/SZPortfolio-React/static/js/main.e0720ab6.chunk.js.map",
+    "main.js": "/SZPortfolio-React/static/js/main.02f607e9.chunk.js",
+    "main.js.map": "/SZPortfolio-React/static/js/main.02f607e9.chunk.js.map",
     "runtime-main.js": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js",
     "runtime-main.js.map": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js.map",
-    "static/js/2.49c25bd5.chunk.js": "/SZPortfolio-React/static/js/2.49c25bd5.chunk.js",
-    "static/js/2.49c25bd5.chunk.js.map": "/SZPortfolio-React/static/js/2.49c25bd5.chunk.js.map",
+    "static/js/2.4c39fc86.chunk.js": "/SZPortfolio-React/static/js/2.4c39fc86.chunk.js",
+    "static/js/2.4c39fc86.chunk.js.map": "/SZPortfolio-React/static/js/2.4c39fc86.chunk.js.map",
     "index.html": "/SZPortfolio-React/index.html",
-    "precache-manifest.481043a4c57691d135e83b8cb3d4cf3a.js": "/SZPortfolio-React/precache-manifest.481043a4c57691d135e83b8cb3d4cf3a.js",
+    "precache-manifest.590d76feb46450eb0d17eeb81c9c7f79.js": "/SZPortfolio-React/precache-manifest.590d76feb46450eb0d17eeb81c9c7f79.js",
     "service-worker.js": "/SZPortfolio-React/service-worker.js",
     "static/css/main.c21d8936.chunk.css.map": "/SZPortfolio-React/static/css/main.c21d8936.chunk.css.map",
-    "static/js/2.49c25bd5.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.49c25bd5.chunk.js.LICENSE.txt",
+    "static/js/2.4c39fc86.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.4c39fc86.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/SZPortfolio-React/static/media/logo.d659a176.png",
     "static/media/profile.jpeg": "/SZPortfolio-React/static/media/profile.90c8e71c.jpeg",
+    "static/media/resume.pdf": "/SZPortfolio-React/static/media/resume.0c48bd20.pdf",
     "static/media/slide1.jpeg": "/SZPortfolio-React/static/media/slide1.10be0220.jpeg",
     "static/media/slide2.jpg": "/SZPortfolio-React/static/media/slide2.1a033892.jpg",
     "static/media/slide3.jpg": "/SZPortfolio-React/static/media/slide3.644aa6ba.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.11b41c2c.js",
-    "static/js/2.49c25bd5.chunk.js",
+    "static/js/2.4c39fc86.chunk.js",
     "static/css/main.c21d8936.chunk.css",
-    "static/js/main.e0720ab6.chunk.js"
+    "static/js/main.02f607e9.chunk.js"
   ]
 }
