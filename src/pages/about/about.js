@@ -4,6 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./style.css";
 import Profile from "../../assets/img/profile.jpeg";
+import Resume from "../../assets/img/resume.pdf";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -27,8 +28,6 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                <h4>About me</h4>
-
                 <p>
                   My professional career as a teacher started after obtaining
                   MS. in Physics and Education from a National Technical
@@ -61,7 +60,8 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a target="_blank" href="../../assets/img/resume.pdf">
+                    {/* <a target="_blank" href="../../assets/img/resume.pdf"> */}
+                    <a target="_blank" href={Resume}>
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>

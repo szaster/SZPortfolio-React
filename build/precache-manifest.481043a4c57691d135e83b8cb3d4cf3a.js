@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8724416336519fd720ea742ccdc27a9",
+    "revision": "79965e315f1bc608f06236d38cf16210",
     "url": "/SZPortfolio-React/index.html"
   },
   {
-    "revision": "1059e1db175809c432de",
-    "url": "/SZPortfolio-React/static/css/main.e10f0c84.chunk.css"
+    "revision": "f2c348476e5da74e9c01",
+    "url": "/SZPortfolio-React/static/css/main.c21d8936.chunk.css"
   },
   {
-    "revision": "07306116771fbfcdc6e3",
-    "url": "/SZPortfolio-React/static/js/2.2b8df52b.chunk.js"
+    "revision": "3907618a998b807f6ae6",
+    "url": "/SZPortfolio-React/static/js/2.49c25bd5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/SZPortfolio-React/static/js/2.2b8df52b.chunk.js.LICENSE.txt"
+    "url": "/SZPortfolio-React/static/js/2.49c25bd5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1059e1db175809c432de",
-    "url": "/SZPortfolio-React/static/js/main.bc8ccb5d.chunk.js"
+    "revision": "f2c348476e5da74e9c01",
+    "url": "/SZPortfolio-React/static/js/main.e0720ab6.chunk.js"
   },
   {
     "revision": "9f9f117b713d5b837756",
