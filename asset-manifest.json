@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SZPortfolio-React/static/css/main.5533d111.chunk.css",
-    "main.js": "/SZPortfolio-React/static/js/main.ba30114d.chunk.js",
-    "main.js.map": "/SZPortfolio-React/static/js/main.ba30114d.chunk.js.map",
+    "main.js": "/SZPortfolio-React/static/js/main.e7760b02.chunk.js",
+    "main.js.map": "/SZPortfolio-React/static/js/main.e7760b02.chunk.js.map",
     "runtime-main.js": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js",
     "runtime-main.js.map": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js.map",
-    "static/js/2.871ead0f.chunk.js": "/SZPortfolio-React/static/js/2.871ead0f.chunk.js",
-    "static/js/2.871ead0f.chunk.js.map": "/SZPortfolio-React/static/js/2.871ead0f.chunk.js.map",
+    "static/js/2.759b6f77.chunk.js": "/SZPortfolio-React/static/js/2.759b6f77.chunk.js",
+    "static/js/2.759b6f77.chunk.js.map": "/SZPortfolio-React/static/js/2.759b6f77.chunk.js.map",
     "index.html": "/SZPortfolio-React/index.html",
-    "precache-manifest.f8992db20dbfac3db1106f08338a857f.js": "/SZPortfolio-React/precache-manifest.f8992db20dbfac3db1106f08338a857f.js",
+    "precache-manifest.aa9f7efffc5c8fee8867c9d8d3b5941e.js": "/SZPortfolio-React/precache-manifest.aa9f7efffc5c8fee8867c9d8d3b5941e.js",
     "service-worker.js": "/SZPortfolio-React/service-worker.js",
     "static/css/main.5533d111.chunk.css.map": "/SZPortfolio-React/static/css/main.5533d111.chunk.css.map",
-    "static/js/2.871ead0f.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.871ead0f.chunk.js.LICENSE.txt",
+    "static/js/2.759b6f77.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.759b6f77.chunk.js.LICENSE.txt",
     "static/media/bootstrap-4.svg": "/SZPortfolio-React/static/media/bootstrap-4.ffded238.svg",
     "static/media/css3.svg": "/SZPortfolio-React/static/media/css3.3707da3c.svg",
     "static/media/express.svg": "/SZPortfolio-React/static/media/express.c6bab64b.svg",
@@ -25,6 +25,7 @@
     "static/media/latex.jpeg": "/SZPortfolio-React/static/media/latex.c96ff2ec.jpeg",
     "static/media/logo.png": "/SZPortfolio-React/static/media/logo.d659a176.png",
     "static/media/mathematica.jpeg": "/SZPortfolio-React/static/media/mathematica.d3aa6e57.jpeg",
+    "static/media/mdlgrnd.png": "/SZPortfolio-React/static/media/mdlgrnd.94044b49.png",
     "static/media/mongodb.jpeg": "/SZPortfolio-React/static/media/mongodb.7670a4c5.jpeg",
     "static/media/mysql.jpeg": "/SZPortfolio-React/static/media/mysql.9ccb813f.jpeg",
     "static/media/nodejs.svg": "/SZPortfolio-React/static/media/nodejs.a1231528.svg",
@@ -32,7 +33,7 @@
     "static/media/python.svg": "/SZPortfolio-React/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/SZPortfolio-React/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react.svg": "/SZPortfolio-React/static/media/react.4009eef3.svg",
-    "static/media/resume.pdf": "/SZPortfolio-React/static/media/resume.0c48bd20.pdf",
+    "static/media/resume.pdf": "/SZPortfolio-React/static/media/resume.9eaf73af.pdf",
     "static/media/sequelize.jpeg": "/SZPortfolio-React/static/media/sequelize.20774565.jpeg",
     "static/media/slide1.jpeg": "/SZPortfolio-React/static/media/slide1.10be0220.jpeg",
     "static/media/slide2.jpg": "/SZPortfolio-React/static/media/slide2.1a033892.jpg",
@@ -40,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.11b41c2c.js",
-    "static/js/2.871ead0f.chunk.js",
+    "static/js/2.759b6f77.chunk.js",
     "static/css/main.5533d111.chunk.css",
-    "static/js/main.ba30114d.chunk.js"
+    "static/js/main.e7760b02.chunk.js"
   ]
 }
