@@ -46,7 +46,6 @@ const About = () => {
                   meaningful applications that would help people.{" "}
                 </p>
                 <p>
-                  {" "}
                   I constantly learn and build upon knowledge and the foundation
                   I acquired during my career. Please take a glance at some of
                   my projects and feel free to contact me.
@@ -60,8 +59,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    {/* <a target="_blank" href="../../assets/img/resume.pdf"> */}
-                    <a target="_blank" href={Resume}>
+                    <a target="_blank" href={Resume} rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
@@ -72,6 +70,7 @@ const About = () => {
                       <a
                         href="https://www.linkedin.com/in/svitlana-zaster-77a9a06b/"
                         target="_blank"
+                        rel="noopener noreferrer"
                       >
                         <i class="fab fa-linkedin">Linkedin</i>
                       </a>
@@ -79,7 +78,11 @@ const About = () => {
                   </div>
                   <div>
                     <Button className="m-2" variant="outline-dark">
-                      <a href="https://github.com/szaster/" target="_blank">
+                      <a
+                        href="https://github.com/szaster/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <i class="fab fa-github">Github</i>
                       </a>
                     </Button>
@@ -90,6 +93,7 @@ const About = () => {
                         class="social"
                         href="https://twitter.com/szaster"
                         target="_blank"
+                        rel="noopener noreferrer"
                       >
                         <i class="fab fa-twitter">Twitter</i>
                       </a>
