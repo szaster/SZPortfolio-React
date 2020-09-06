@@ -57,6 +57,20 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href=" https://szaster.github.io/Your-Breaking-News/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href=" https://github.com/szaster/Your-Breaking-News"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
             </div>
           </ImageEvent>
 
@@ -97,6 +111,20 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href="http://ideaexpo.herokuapp.com/ "
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/szaster/IdeaEXPO "
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
             </div>
           </ImageEvent>
 
@@ -136,6 +164,76 @@ const TimeLine = () => {
                     </Accordion.Collapse>
                   </Card>
                 </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href=" https://szaster.github.io/React-Employee-Directory-App/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href=" https://github.com/szaster/React-Employee-Directory-App"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+
+          <ImageEvent
+            // date="05/29/2020"
+            className="text-center"
+            text="Burger"
+            src={Burger}
+            alt="Burger"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong>This application records
+                        your most delicious burgers into a very special top
+                        burger list!
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Record and edit your burger list.</li>
+                          <li>
+                            This app is written with MySQL, Node, Express,
+                            Handlebars and ORM.
+                          </li>
+                        </ul>
+                        <hr />
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href=" https://powerful-thicket-03747.herokuapp.com/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/szaster/Burger-App "
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
               </div>
             </div>
           </ImageEvent>
