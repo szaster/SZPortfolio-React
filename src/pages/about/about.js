@@ -52,11 +52,11 @@ const About = () => {
                 </p>
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
-                    <a href="#contact">
+                    {/* <a href="#contact">
                       <Button className="m-2" variant="outline-primary">
                         Let's talk
                       </Button>
-                    </a>
+                    </a> */}
                   </div>
                   <div>
                     <a target="_blank" href={Resume} rel="noopener noreferrer">

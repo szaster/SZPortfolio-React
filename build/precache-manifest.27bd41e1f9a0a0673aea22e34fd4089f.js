@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "484ed386c7d6524002c772c8c405db65",
+    "revision": "089fad86db3906411245fa3a061c33af",
     "url": "/SZPortfolio-React/index.html"
   },
   {
-    "revision": "c4f50750330b5d6469cf",
+    "revision": "0b4c3b7fd2cecf9275cb",
     "url": "/SZPortfolio-React/static/css/main.5533d111.chunk.css"
   },
   {
-    "revision": "3ec435b4cb2a471dc532",
-    "url": "/SZPortfolio-React/static/js/2.759b6f77.chunk.js"
+    "revision": "bdfbb129261f6b4388e2",
+    "url": "/SZPortfolio-React/static/js/2.f1700bf5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/SZPortfolio-React/static/js/2.759b6f77.chunk.js.LICENSE.txt"
+    "url": "/SZPortfolio-React/static/js/2.f1700bf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4f50750330b5d6469cf",
-    "url": "/SZPortfolio-React/static/js/main.e7760b02.chunk.js"
+    "revision": "0b4c3b7fd2cecf9275cb",
+    "url": "/SZPortfolio-React/static/js/main.4f1f3490.chunk.js"
   },
   {
     "revision": "9f9f117b713d5b837756",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SZPortfolio-React/static/media/bootstrap-4.ffded238.svg"
   },
   {
+    "revision": "da117def5cc9677f79465a5c2a80a46e",
+    "url": "/SZPortfolio-React/static/media/burger.da117def.png"
+  },
+  {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
     "url": "/SZPortfolio-React/static/media/css3.3707da3c.svg"
+  },
+  {
+    "revision": "e914f2d8206164b6ee375368c66ab12d",
+    "url": "/SZPortfolio-React/static/media/employee-directory.e914f2d8.png"
   },
   {
     "revision": "c6bab64b183f96aa47077fd3db37afd0",
@@ -54,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "676e8188f003ed5d4882a0d0f378dad3",
     "url": "/SZPortfolio-React/static/media/html-5.676e8188.svg"
+  },
+  {
+    "revision": "413548d864a390320d2ac76a10937e9a",
+    "url": "/SZPortfolio-React/static/media/idea-expo.413548d8.png"
   },
   {
     "revision": "2d2e31cc63a96c7e6044f52d30fd21b9",
