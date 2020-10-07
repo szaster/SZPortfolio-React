@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SZPortfolio-React/static/css/main.5533d111.chunk.css",
-    "main.js": "/SZPortfolio-React/static/js/main.f1833967.chunk.js",
-    "main.js.map": "/SZPortfolio-React/static/js/main.f1833967.chunk.js.map",
+    "main.js": "/SZPortfolio-React/static/js/main.35b9383f.chunk.js",
+    "main.js.map": "/SZPortfolio-React/static/js/main.35b9383f.chunk.js.map",
     "runtime-main.js": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js",
     "runtime-main.js.map": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js.map",
-    "static/js/2.04f8ec20.chunk.js": "/SZPortfolio-React/static/js/2.04f8ec20.chunk.js",
-    "static/js/2.04f8ec20.chunk.js.map": "/SZPortfolio-React/static/js/2.04f8ec20.chunk.js.map",
+    "static/js/2.ecab8643.chunk.js": "/SZPortfolio-React/static/js/2.ecab8643.chunk.js",
+    "static/js/2.ecab8643.chunk.js.map": "/SZPortfolio-React/static/js/2.ecab8643.chunk.js.map",
     "index.html": "/SZPortfolio-React/index.html",
-    "precache-manifest.32d0f5bd3e88b8a9beac439bb9e6d866.js": "/SZPortfolio-React/precache-manifest.32d0f5bd3e88b8a9beac439bb9e6d866.js",
+    "precache-manifest.0e1456c0e2a59265c642e8fb0341d410.js": "/SZPortfolio-React/precache-manifest.0e1456c0e2a59265c642e8fb0341d410.js",
     "service-worker.js": "/SZPortfolio-React/service-worker.js",
     "static/css/main.5533d111.chunk.css.map": "/SZPortfolio-React/static/css/main.5533d111.chunk.css.map",
-    "static/js/2.04f8ec20.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.04f8ec20.chunk.js.LICENSE.txt",
+    "static/js/2.ecab8643.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.ecab8643.chunk.js.LICENSE.txt",
     "static/media/bootstrap-4.svg": "/SZPortfolio-React/static/media/bootstrap-4.ffded238.svg",
     "static/media/burger.png": "/SZPortfolio-React/static/media/burger.da117def.png",
     "static/media/css3.svg": "/SZPortfolio-React/static/media/css3.3707da3c.svg",
@@ -25,6 +25,7 @@
     "static/media/idea-expo.png": "/SZPortfolio-React/static/media/idea-expo.413548d8.png",
     "static/media/javascript.svg": "/SZPortfolio-React/static/media/javascript.2d2e31cc.svg",
     "static/media/jquery.jpeg": "/SZPortfolio-React/static/media/jquery.fb1a441e.jpeg",
+    "static/media/landing.png": "/SZPortfolio-React/static/media/landing.530ddd95.png",
     "static/media/latex.jpeg": "/SZPortfolio-React/static/media/latex.c96ff2ec.jpeg",
     "static/media/logo.png": "/SZPortfolio-React/static/media/logo.d659a176.png",
     "static/media/mathematica.jpeg": "/SZPortfolio-React/static/media/mathematica.d3aa6e57.jpeg",
@@ -44,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.11b41c2c.js",
-    "static/js/2.04f8ec20.chunk.js",
+    "static/js/2.ecab8643.chunk.js",
     "static/css/main.5533d111.chunk.css",
-    "static/js/main.f1833967.chunk.js"
+    "static/js/main.35b9383f.chunk.js"
   ]
 }

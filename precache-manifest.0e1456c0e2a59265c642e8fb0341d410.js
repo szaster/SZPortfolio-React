@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32d772ccf4d9e3f9b6bdb9b553d346ea",
+    "revision": "b5e453998b9643a6dd35fbdfdd32d880",
     "url": "/SZPortfolio-React/index.html"
   },
   {
-    "revision": "d3adb9f2869bafcfc163",
+    "revision": "f49720965d64b46dd8ff",
     "url": "/SZPortfolio-React/static/css/main.5533d111.chunk.css"
   },
   {
-    "revision": "b4e5dd2bd0b7f5e959cd",
-    "url": "/SZPortfolio-React/static/js/2.04f8ec20.chunk.js"
+    "revision": "b49f9539d2fed1143303",
+    "url": "/SZPortfolio-React/static/js/2.ecab8643.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/SZPortfolio-React/static/js/2.04f8ec20.chunk.js.LICENSE.txt"
+    "url": "/SZPortfolio-React/static/js/2.ecab8643.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3adb9f2869bafcfc163",
-    "url": "/SZPortfolio-React/static/js/main.f1833967.chunk.js"
+    "revision": "f49720965d64b46dd8ff",
+    "url": "/SZPortfolio-React/static/js/main.35b9383f.chunk.js"
   },
   {
     "revision": "9f9f117b713d5b837756",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb1a441ecace9a17449cb6be23ad1e18",
     "url": "/SZPortfolio-React/static/media/jquery.fb1a441e.jpeg"
+  },
+  {
+    "revision": "530ddd959947baa2d341960433a4e3fb",
+    "url": "/SZPortfolio-React/static/media/landing.530ddd95.png"
   },
   {
     "revision": "c96ff2ecc0670553982800605696ec5a",
