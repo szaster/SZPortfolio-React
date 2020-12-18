@@ -109,7 +109,6 @@ const TimeLine = () => {
                         <strong>Tools/languages: </strong> HTML, JavaScript,
                         CSS, Materialize CSS, MySQL, Sequelize, Express, Node,
                         Handlebars, Heroku.
-                        <hr />
                       </Card.Body>
                     </Accordion.Collapse>
                   </Card>
@@ -210,7 +209,6 @@ const TimeLine = () => {
                         <hr />
                         <strong>Tools/languages: </strong>MySQL, Node, Express,
                         Handlebars and ORM.
-                        <hr />
                       </Card.Body>
                     </Accordion.Collapse>
                   </Card>
@@ -265,7 +263,6 @@ const TimeLine = () => {
                         <hr />
                         <strong>Tools/languages: </strong>HTML, JavaScript,
                         jQuery, CSS, Materialize CSS.
-                        <hr />
                       </Card.Body>
                     </Accordion.Collapse>
                   </Card>

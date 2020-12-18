@@ -1,1 +1,1 @@
-[Svitlana Zaster's portfolio: ] (https://szaster.github.io/SZPortfolio-React/)
+[Svitlana Zaster's portfolio](https://szaster.github.io/SZPortfolio-React/)
