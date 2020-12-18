@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SZPortfolio-React/static/css/main.472cf03c.chunk.css",
-    "main.js": "/SZPortfolio-React/static/js/main.9ba3de5e.chunk.js",
-    "main.js.map": "/SZPortfolio-React/static/js/main.9ba3de5e.chunk.js.map",
+    "main.js": "/SZPortfolio-React/static/js/main.a020b50b.chunk.js",
+    "main.js.map": "/SZPortfolio-React/static/js/main.a020b50b.chunk.js.map",
     "runtime-main.js": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js",
     "runtime-main.js.map": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js.map",
     "static/js/2.dca9d1f5.chunk.js": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js",
     "static/js/2.dca9d1f5.chunk.js.map": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js.map",
     "index.html": "/SZPortfolio-React/index.html",
-    "precache-manifest.23808df6cbc45d58bc811fc7373c5c73.js": "/SZPortfolio-React/precache-manifest.23808df6cbc45d58bc811fc7373c5c73.js",
+    "precache-manifest.791a2435abb7cfbc3f194ec85dc84da2.js": "/SZPortfolio-React/precache-manifest.791a2435abb7cfbc3f194ec85dc84da2.js",
     "service-worker.js": "/SZPortfolio-React/service-worker.js",
     "static/css/main.472cf03c.chunk.css.map": "/SZPortfolio-React/static/css/main.472cf03c.chunk.css.map",
     "static/js/2.dca9d1f5.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js.LICENSE.txt",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.11b41c2c.js",
     "static/js/2.dca9d1f5.chunk.js",
     "static/css/main.472cf03c.chunk.css",
-    "static/js/main.9ba3de5e.chunk.js"
+    "static/js/main.a020b50b.chunk.js"
   ]
 }
