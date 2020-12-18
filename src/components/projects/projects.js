@@ -6,6 +6,8 @@ import IdeaExpo from "../../assets/img/projects/idea-expo.png";
 import EmployeeDirectory from "../../assets/img/projects/employee-directory.png";
 // import Pupster from "../../assets/img/projects/pupster";
 import Burger from "../../assets/img/projects/burger.png";
+import Letflex from "../../assets/img/projects/landing.png";
+
 // import NoteTaker from "../../assets/img/projects/note-taker";
 // import DailyPlanner from "../../assets/img/projects/daily-planner";
 
@@ -23,7 +25,7 @@ const TimeLine = () => {
             className="text-center"
             text="Your Breaking News"
             src={MiddleGround}
-            alt="Middleground"
+            alt="Middle ground"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
@@ -149,8 +151,9 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong>This project allows view
-                        the entire employee directory.
+                        <strong>Description:</strong>This project displays a
+                        list of random users(employees) on every refresh and
+                        allows view and edit the entire employee directory.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
@@ -230,6 +233,58 @@ const TimeLine = () => {
                 </UrlButton>
                 <UrlButton
                   href="https://github.com/szaster/Burger-App "
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+
+          <ImageEvent
+            // date="05/29/2020"
+            className="text-center"
+            text="Letflex or Netflix?"
+            src={Letflex}
+            alt="Letlex"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong>
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Login with Google!</li>
+                          <li>
+                            Search and watch movie trailers, add to favorites,
+                            leave comments and discuss movies and shows!
+                          </li>
+                          <li>This app is written using React.</li>
+                        </ul>
+                        <hr />
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton href="http://letflex.herokuapp.com/" target="_blank">
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/szaster/Letflex"
                   target="_blank"
                 >
                   SOURCE CODE
