@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d033605560c94d075426e6aedd8a7730",
+    "revision": "90f4dacade0811adc4e7fabe427517e4",
     "url": "/SZPortfolio-React/index.html"
   },
   {
-    "revision": "bf3f03ecee30e01cc77d",
+    "revision": "50d53738e9fb5a9be725",
     "url": "/SZPortfolio-React/static/css/main.472cf03c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf3f03ecee30e01cc77d",
-    "url": "/SZPortfolio-React/static/js/main.a020b50b.chunk.js"
+    "revision": "50d53738e9fb5a9be725",
+    "url": "/SZPortfolio-React/static/js/main.63cbedb1.chunk.js"
   },
   {
     "revision": "9f9f117b713d5b837756",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SZPortfolio-React/static/media/react.4009eef3.svg"
   },
   {
-    "revision": "8304aba2384d53835c3d1475501c3dd2",
-    "url": "/SZPortfolio-React/static/media/resume.8304aba2.pdf"
+    "revision": "02ff1bd03827a66bdb8626550b1019e6",
+    "url": "/SZPortfolio-React/static/media/resume.02ff1bd0.pdf"
   },
   {
     "revision": "20774565346a4a2973b477dfba97fd15",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SZPortfolio-React/static/css/main.472cf03c.chunk.css",
-    "main.js": "/SZPortfolio-React/static/js/main.a020b50b.chunk.js",
-    "main.js.map": "/SZPortfolio-React/static/js/main.a020b50b.chunk.js.map",
+    "main.js": "/SZPortfolio-React/static/js/main.63cbedb1.chunk.js",
+    "main.js.map": "/SZPortfolio-React/static/js/main.63cbedb1.chunk.js.map",
     "runtime-main.js": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js",
     "runtime-main.js.map": "/SZPortfolio-React/static/js/runtime-main.11b41c2c.js.map",
     "static/js/2.dca9d1f5.chunk.js": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js",
     "static/js/2.dca9d1f5.chunk.js.map": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js.map",
     "index.html": "/SZPortfolio-React/index.html",
-    "precache-manifest.791a2435abb7cfbc3f194ec85dc84da2.js": "/SZPortfolio-React/precache-manifest.791a2435abb7cfbc3f194ec85dc84da2.js",
+    "precache-manifest.0ef2a8ad6bccd598f92b7c1533342b98.js": "/SZPortfolio-React/precache-manifest.0ef2a8ad6bccd598f92b7c1533342b98.js",
     "service-worker.js": "/SZPortfolio-React/service-worker.js",
     "static/css/main.472cf03c.chunk.css.map": "/SZPortfolio-React/static/css/main.472cf03c.chunk.css.map",
     "static/js/2.dca9d1f5.chunk.js.LICENSE.txt": "/SZPortfolio-React/static/js/2.dca9d1f5.chunk.js.LICENSE.txt",
@@ -37,7 +37,7 @@
     "static/media/python.svg": "/SZPortfolio-React/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/SZPortfolio-React/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react.svg": "/SZPortfolio-React/static/media/react.4009eef3.svg",
-    "static/media/resume.pdf": "/SZPortfolio-React/static/media/resume.8304aba2.pdf",
+    "static/media/resume.pdf": "/SZPortfolio-React/static/media/resume.02ff1bd0.pdf",
     "static/media/sequelize.jpeg": "/SZPortfolio-React/static/media/sequelize.20774565.jpeg",
     "static/media/slide1.jpeg": "/SZPortfolio-React/static/media/slide1.10be0220.jpeg",
     "static/media/slide2.jpg": "/SZPortfolio-React/static/media/slide2.1a033892.jpg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.11b41c2c.js",
     "static/js/2.dca9d1f5.chunk.js",
     "static/css/main.472cf03c.chunk.css",
-    "static/js/main.a020b50b.chunk.js"
+    "static/js/main.63cbedb1.chunk.js"
   ]
 }
